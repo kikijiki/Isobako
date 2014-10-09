@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+
+	<LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:padding="8dp" >
+
+	    <SeekBar android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/verticalOffsetSeek"></SeekBar>
+	    <TextView android:layout_width="wrap_content" android:layout_gravity="center_horizontal" android:layout_height="wrap_content" android:id="@+id/verticalOffsetPickerProgress" android:textColor="#FFFFFF"></TextView>
+	    <Button android:layout_height="wrap_content" android:id="@+id/verticalOffsetOkButton" android:text="@string/verticalOffsetButton" android:layout_width="fill_parent" android:layout_margin="10dip"></Button>
+	</LinearLayout>
+</ScrollView>

@@ -1,0 +1,68 @@
+<<EN>>
+
+Isobako live wallpaper.
+
+Colored blocks falling in the background, slowly filling an isometric cube.
+You can choose how the cube is painted and the way is filled, to create your own original wallpaper.
+
+Settings:
+
+✔ Block size, number and speed.
+✔ Background color.
+✔ Fill the cube with a simple color, random color, one of the many pictures included in the app or choose yours from the gallery (sd card).
+✔ The blocks can fall one at a time or rain down in the desired amount. You can also disable the animation and keep only the final cube (saves battery and can handle well big pictures).
+✔ Paint the upper, left, right, or both front faces (same orientation or specular) of the cube.
+✔ Select the desired frame rate to save on battery or have smoother animation.
+✔ Center the cube on the screen.
+✔ Select after how many seconds restart the animation.
+
+(go to home->menu->live wallpapers->Isobako->settings)
+
+<<promotion text>>
+Isobako, isometric cube live wallpaper
+
+<<IT>>
+
+Isobako, sfondo animato.
+
+Blocchi colorati cadono sullo sfondo, formando lentamente un cubo isometrico.
+Puoi scegliere come colorare e in che maniera riempire il cubo, cosi da poter creare il tuo sfondo originale.
+
+Impostazioni:
+
+✔ Dimensione, numero e velocita dei blocchi.
+✔ Colore dello sfondo.
+✔ Riempi il cubo con un semplice colore, colori casuali, una delle tante immagini incluse nell'applicazione oppure carica la tua dalla galleria (scheda sd).
+✔ I blocchi possono cadere uno alla volta o piovere insieme nella quantita desiderata. Puoi anche disabilitare l'animazione e lasciare solo il cubo finale (consuma meno batteria e gestisce bene anche immagini grandi).
+✔ Colora la faccia superiore, la destra, la sinistra o entrambe le facce frontali (stesso orientamento e speculare) del cubo.
+✔ Scegli il la frequenza di aggiornamento per scegliere tra risparmio batteria o animazioni piu fluide.
+✔ Centra il cubo sullo schermo.
+✔ Scegli ogni quanti secondi ripetere l'animazione.
+
+(vai a home->menu->sfondi animati->Isobako->impostazioni)
+
+<<promotion text>>
+Isobako, sfondo animato con cubi isometrici
+
+<<JA>>
+
+イソ箱：ライブ壁紙
+
+ゆっくりと落下するカラーブロックが大きなキューブを積み上げます。
+色や積み上げ方法を選ぶことができ、あなたのオリジナルの壁紙を楽しむことができます。
+
+概要：
+
+✔ ブロックの大きさ、数、速さを設定します
+✔ 背景カラーを設定します
+✔ キューブのデザインを設定します：単色カラー、ランダムカラー、画像を使用する（画像はアップのギャラリーまたはユーザのギャラリーから選択できます）
+✔ ブロックの落下方法の設定します：ひとつずつ、雨つぶ方式（量の調節可能）、または静止画像（アニメーションなし）を選択することも可能。（静止画像を利用した場合、バッテリー消費は減ります。また大きな画像を壁紙に使用することが可能になります。）
+✔ 上面、左面、右面のキューブのカラーを設定します、左面、右面の画像の向きを設定（同一方向：鏡面反射）
+✔ フレームレートを設定します：消費電力モード・スムーズアニメーション
+✔ スクリーンの中心にキューブを設定します。
+✔ アニメーションの再生時間を設定します。
+
+（ホーム->メニュー->ライブ壁紙->イソ箱->設定）
+
+<<promotion text>>
+イソ箱、アイソメトリックキューブライブ壁紙

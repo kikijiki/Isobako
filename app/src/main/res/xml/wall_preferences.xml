@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:key="blocksCategory" android:title="@string/blocksCategory"><ListPreference android:key="blockSize" android:entryValues="@array/blockSizeKey" android:entries="@array/blockSize" android:title="@string/blockSize" android:defaultValue="medium" android:persistent="true"></ListPreference><CheckBoxPreference android:key="blockLimit" android:title="@string/blockLimit" android:persistent="true" android:summaryOn="@string/blockSizeSummaryOn" android:summaryOff="@string/blockSizeSummaryOff" android:defaultValue="false"></CheckBoxPreference></PreferenceCategory>
+    <PreferenceCategory android:key="fallCategory" android:title="@string/fallCategory">
+    <ListPreference android:key="fallStyle" android:entryValues="@array/fallStyleKey" android:entries="@array/fallStyle" android:persistent="true" android:title="@string/fallStyle" android:defaultValue="rain"></ListPreference>
+    <Preference android:key="fallSpeed" android:title="@string/fallSpeed"></Preference>
+    <Preference android:key="rainAmount" android:title="@string/rainAmount"></Preference>
+    <EditTextPreference android:key="waitTime" android:title="@string/waitTime" android:defaultValue="2" android:persistent="true" android:inputType="number"></EditTextPreference>
+</PreferenceCategory>
+    
+    <PreferenceCategory android:key="styleCategory" android:title="@string/styleCategory"><ListPreference android:persistent="true" android:title="@string/paintMode" android:entryValues="@array/paintModeKey" android:entries="@array/paintMode" android:key="paintMode" android:defaultValue="default"></ListPreference><ListPreference android:key="fillMode" android:title="@string/fillMode" android:entryValues="@array/fillModeKey" android:entries="@array/fillMode" android:persistent="true" android:defaultValue="left"></ListPreference><Preference android:persistent="true" android:key="colorSelector" android:title="@string/colorSelector"></Preference><Preference android:key="openGallery" android:persistent="true" android:title="@string/openGallery"></Preference>
+    <Preference android:key="backgroundColor" android:persistent="true" android:title="@string/backgroundColor"></Preference>
+    
+</PreferenceCategory><PreferenceCategory android:key="advancedCategory" android:title="@string/advancedCategory"><Preference android:key="verticalOffset" android:title="@string/verticalOffset"></Preference><ListPreference android:key="fps" android:persistent="true" android:title="@string/fps" android:defaultValue="medium" android:entryValues="@array/fpsKey" android:entries="@array/fps"></ListPreference></PreferenceCategory>
+<PreferenceCategory android:title="@string/notesCategory" android:key="notesCategory"><Preference android:key="showLicence" android:title="@string/showLicence"></Preference>
+    
+</PreferenceCategory>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</PreferenceScreen>
